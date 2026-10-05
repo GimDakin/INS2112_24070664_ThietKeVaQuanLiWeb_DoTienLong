@@ -1,6 +1,6 @@
 /* màu cho đoạn văn chính của website */
 body {
-    background-color: #c1ca1c;
+    background-color: #caaf50;
     font-family: Arial, sans-serif;
     font-size: 16px;
     color: #333;
@@ -14,11 +14,13 @@ h1 {
 }
 h2 {
     color: #28A745;
-    margin-top: 20px;
+    margin-top: 10px;
+    text-align: center;
 }
 h3 {
     color: #DC3545;
     margin-top: 20px;
+    text-align: center;
 }
 p {
     line-height: 1.6;
