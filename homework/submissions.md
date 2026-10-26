@@ -3,3 +3,5 @@
 - Session 02 - https://drive.google.com/drive/folders/1pTaMee6yCO0pePHkE6u8jgRq9NkeFz-7?hl=vi
 - Session 04 - https://drive.google.com/drive/folders/1Jc3fQCyH90wOAtQhmEKN_6SRWGuLxzeD?usp=drive_link
 - Session 05 - https://drive.google.com/file/d/1TqjWNUL1ywdtdTiOZJOTDYbYXj1-xIRD/view?usp=drive_link
+- Session 06 - https://drive.google.com/drive/folders/1ugVhrrKENKFYmc_pLxFBGNZL8g0L0TRi?usp=drive_link
+- Session 07 - https://drive.google.com/drive/folders/15kvUo8mFQgbvKIkKXKrF5arWh9HOmt-z?usp=sharing

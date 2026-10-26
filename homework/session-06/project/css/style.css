@@ -1,0 +1,206 @@
+body {
+    background-color: #fbc3c3;
+    font-family: Arial, sans-serif;
+}
+.header {
+    background: linear-gradient(
+        135deg,
+        #080b1e,
+        #21134b,
+        #141f46
+    );
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 12px;
+    margin: 0;
+
+    background: rgba(139, 92, 246, 0.15);
+    border: 1px solid rgba(139, 92, 246, 0.4);
+    border-radius: 8px;
+}
+
+.menu li {
+    margin: 0;
+}
+
+.menu a {
+    color: #ddd6fe;
+    text-decoration: none;
+    padding: 10px 18px;
+    border-radius: 6px;
+    transition: 0.3s;
+}
+
+.menu a:hover {
+    background: #7c3aed;
+    color: white;
+    box-shadow: 0 0 15px rgba(139, 92, 246, 0.7);
+}
+.container {
+    background:
+        radial-gradient(
+            circle at 25% 30%,
+            rgba(139, 92, 246, 0.45),
+            transparent 45%
+        ),
+        radial-gradient(
+            circle at 80% 70%,
+            rgba(37, 99, 235, 0.4),
+            transparent 45%
+        ),
+        linear-gradient(
+            135deg,
+            #070816,
+            #161044,
+            #080d22
+        );
+
+    color: white;
+    padding: 30px;
+    border-radius: 15px;
+    min-height: 400px;
+}
+h2 {
+    border: 2px solid rgba(139, 92, 246, 0.4);
+    color: #ddd6fe;
+    text-shadow: 0 0 10px rgba(139, 92, 246, 0.7);
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+}
+.doan1 {
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    background: rgba(139, 92, 246, 0.15);
+}
+.doan2 {
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    background: rgba(139, 92, 246, 0.15);
+}
+.doan3 {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    background: rgba(139, 92, 246, 0.15);
+}.doan4 {
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    background: rgba(139, 92, 246, 0.15);
+}.doan5 {
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    background: rgba(139, 92, 246, 0.15);
+}.doan6 {
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    background: rgba(139, 92, 246, 0.15);
+}
+.uldoan2 {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+}
+.uldoan3 {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+}
+.uldoan5 {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+}  
+.container p {
+    background: rgba(139, 92, 246, 0.15);
+    color: #e9d5ff;
+    border: 1px solid rgba(139, 92, 246, 0.4);
+    text-align: center;
+    margin: 15px 0;
+    padding: 10px;
+    border-left: 5px solid #7c3aed;
+    border-radius: 10px;
+    line-height: 1.6;
+    font-size: 1.1em;
+    box-shadow: 0 0 10px rgba(139, 92, 246, 0.3);
+}
+.container ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 15px 0;
+}
+.container ul li {
+    background: rgba(139, 92, 246, 0.15);
+    padding: 14px 20px;
+    margin-bottom: 10px;
+    border: 1px solid rgba(167, 139, 250, 0.3);
+    border-radius: 8px;
+    color: white;
+    transition: 0.3s;
+}
+.container ul li::before {
+    content: "✦";
+    color: #c4b5fd;
+    margin-right: 12px;
+}
+.container ul li:hover {
+     background: rgba(139, 92, 246, 0.35);
+     border-color: #a78bfa;
+     transform: translateX(5px);
+}
+.image-gallery {
+   display: flex;
+   gap: 20px;
+   flex-wrap: warp;
+   justify-content: center;
+   padding: 20px 0;
+}
+.image-gallery img {
+    width: 250px;
+    height: 100px;
+    object-fit: cover;
+
+    border-radius: 15px;
+    border: 2px solid #8b5cf6;
+    box-shadow: 0 0 15px rgba(139, 92, 246, 0.4);
+    transition: 0.3s;
+}
+.image-gallery img:hover{
+    transform: scale(1.05);
+    box-shadow: 0 0 20px #8b5cf6, 0 0 35px rgba(139, 92, 246, 0.15);
+}
+.chantrang {
+    background: linear-gradient(135deg, #080b1e, #21134b);
+    color: white;
+    padding: 20px;
+    display: flex;
+    text-align: center;
+    border: #21134b;
+    border-radius: 10px;
+}
